@@ -17,9 +17,7 @@ Redash, enhanced with a chatbot plugin, enables seamless conversational interact
 
 ```bash
 $ sudo apt -y install docker.io docker-buildx docker-compose-v2
-
 $ sudo apt -y install build-essential curl docker-compose pwgen python3-venv xvfb
-
 $ pip install -r requirements.txt
 ````
 
